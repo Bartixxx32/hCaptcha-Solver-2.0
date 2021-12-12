@@ -26,8 +26,8 @@ HEADERS = {
 
 class hCaptcha(object):
     def __init__(self):
-        self.sitekey = 'eaaffc67-ea9f-4844-9740-9eefd238c7dc'
-        self.host = 'caspers.app'
+        self.sitekey = 'd811af5e-56c4-4490-9205-605407b94d99'
+        self.host = 'https://freemcserver.net/server/653580/renew'
         self.builder = {}
         self.c = {}
         self.starttime = time.time()
